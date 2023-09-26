@@ -1,0 +1,7 @@
+#alpha {
+    font-size: 100px;
+}
+#alpha:hover{
+    font-size: 200px;
+    color: aquamarine;
+}
